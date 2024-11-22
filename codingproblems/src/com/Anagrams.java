@@ -7,7 +7,7 @@ public class Anagrams {
 	public static void main(String[] args) {
 
 		String s1 = "java";
-		String s2 = "jvaa";
+		String s2 = "python";
 
 		char[] c1 = s1.toLowerCase().toCharArray();
 		char[] c2 = s2.toLowerCase().toCharArray();
