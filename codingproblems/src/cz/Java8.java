@@ -9,7 +9,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class VeryImppp {
+public class Java8 {
 
 	public static void main(String[] args) {
 

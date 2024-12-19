@@ -26,7 +26,7 @@ public class Runner {
 		
 		//LocalDateTime t = LocalDateTime.now();
 		
-		LocalDate birthday =LocalDate.of(1995,11,13);
+		LocalDate birthday =LocalDate.of(1947,8,15);
 		
 		LocalDate today = LocalDate.now();
 		
