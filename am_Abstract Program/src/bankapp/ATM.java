@@ -21,6 +21,7 @@ public class ATM implements Bank{
 
 	@Override
 	public void checkbalance() {
+
 		System.out.println("Available Balance:" +balance);
 	}
 

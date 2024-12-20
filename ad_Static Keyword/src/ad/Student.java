@@ -7,6 +7,7 @@ public class Student {
 	static int age = 20;
 	
 	static void study() {
+
 		System.out.println("Student is Studying");
 	}
 	

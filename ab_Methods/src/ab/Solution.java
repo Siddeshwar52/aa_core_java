@@ -4,21 +4,25 @@ public class Solution {
 
 	// Method without Arguments and without return statement
 	public void m1(){
+
 		System.out.println("Learning Methods");
 	}
 
 	// Method with Arguments and without return statement
 	public void m2(String name, int age){
+
 		System.out.println("Name "+name+" Age "+age);
 	}
 
 	// Method without Arguments and with return statement
 	public String m3(){
+
 		return"Tech M";
 	}
 
 	// Method with Arguments and with return statement
 	public int m4(int a, int b){
+
 		return a+b;
 	}
 

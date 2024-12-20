@@ -5,7 +5,8 @@ public class Guldu implements Person
 	@Override
     public void eat()
     {
-    	System.out.println("Eating Biryani");
+
+		System.out.println("Eating Biryani");
     }
 	
 	public static void main(String[] args) {

@@ -12,7 +12,7 @@ public class Employee1 {
             Employee1 e3 = new Employee1();
 
             e1.id = 100;
-            e2.name = "Siddu";
+            e2.name = "TOM";
             e3.salary = 700.00;
 
             System.out.println(e1.id);

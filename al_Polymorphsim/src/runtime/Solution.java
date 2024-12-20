@@ -2,13 +2,15 @@ package runtime;
 
 class Vehicles {
 	 void start() {
-		System.out.println("Vehicle started");
+
+		 System.out.println("Vehicle started");
 	}
 }
 
 class Bike extends Vehicles{
 	@Override
 	 void start() {
+
 		System.out.println("Bike has started");
 	}
 }
@@ -16,6 +18,7 @@ class Bike extends Vehicles{
 class Car extends Vehicles {
 	@Override
 	void start() {
+
 		System.out.println("Car Started");
 	}
 }

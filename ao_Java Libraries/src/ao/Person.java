@@ -20,7 +20,6 @@ public class Person {
 		
 		Object obj = new Demo();
 		an.Person per =  (an.Person) obj;
-		
 
 	}
 }

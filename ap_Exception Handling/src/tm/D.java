@@ -7,12 +7,9 @@ public class D {
 	
 	public static void main(String[] args) {
 		
-		try 
-		{
+		try {
 			FileReader f = new FileReader("demo.txt");
-		} 
-		catch (FileNotFoundException e) 
-		{
+		} catch (FileNotFoundException e) {
 			System.out.println("File not found");
 		}
 		

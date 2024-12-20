@@ -7,6 +7,7 @@ public class A {
 	static String name = "Siddeshwar";
 	
 	public static void getName() {
+
 		System.out.println("The name is "+name);
 	}
 	

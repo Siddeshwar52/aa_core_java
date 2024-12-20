@@ -3,18 +3,22 @@ package aa_com;
 public class Vehicles {
 	
 	Vehicles(String brand, int cost){
+
 		System.out.println("Brand: "+brand+" Cost:"+cost);
 	}
 	
 	Vehicles(String brand){
+
 		System.out.println("Brand: "+brand);
 	}
 	
 	Vehicles(String brand, String fuel){
+
 		System.out.println("Brand: "+brand+"Fuel: "+fuel);
 	}
 	
 	Vehicles(int cost, String brand){
+
 		System.out.println("Cost: "+cost+"Brand: "+brand);
 	}
 	

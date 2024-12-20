@@ -6,17 +6,11 @@ public class FinalyyBlockException {
 
 		System.out.println("Start");
 
-		try 
-		{
+		try {
 			System.out.println(10/0);
-		}
-
-		catch(ArithmeticException e) 
-		{
+		} catch(ArithmeticException e) {
 			System.out.println("Invalid Denominator");
-		}
-		finally 
-		{
+		} finally {
 			System.out.println("Inside finally block");
 		}
 

@@ -20,8 +20,6 @@ public class Test {
 		scan.close();
 		
 		System.out.println("End");
-		
-		
-	}
 
+	}
 }

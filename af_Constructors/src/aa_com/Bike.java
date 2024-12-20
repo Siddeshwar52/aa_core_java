@@ -5,6 +5,7 @@ public class Bike {
 	// Parameterized Custom Constructors
 	
 	Bike(int cost){
+
 		System.out.println("Cost: "+cost);
 	}
 	

@@ -12,8 +12,7 @@ public class Demp {
 		System.out.println("Start");
 		try {
 			div();
-		}
-		catch(Exception e) {
+		} catch(Exception e) {
 
 		}
 
