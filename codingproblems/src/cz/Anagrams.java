@@ -15,6 +15,7 @@ public class Anagrams {
         Arrays.sort(c1);
         Arrays.sort(c2);
 
+
         boolean value = Arrays.equals(c1, c2);
 
         if (value)
