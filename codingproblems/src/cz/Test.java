@@ -15,6 +15,7 @@ public class Test {
 		}
 		
 		System.out.println("Last "+x);
+		System.out.println("Last "+x);
 
 	}
 	
